@@ -1,4 +1,6 @@
 Main()
 {
   print "hello word"
+  echo "This is new .....";
+  echo "This is new .....";
 }
